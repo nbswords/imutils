@@ -1,4 +1,4 @@
-I fix the bug about FaceAlginer.This bug is about `TypeError: Can't parse 'center'. Sequence item with index 0 has a wrong type`.
+I fix the bug about Facealigner.This bug is about `TypeError: Can't parse 'center'. Sequence item with index 0 has a wrong type`.
 
 
 # imutils
